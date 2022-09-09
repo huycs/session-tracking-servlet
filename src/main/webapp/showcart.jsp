@@ -8,7 +8,7 @@
 </head>
 <body>
     
-    <p>Welcome</p>
+    <p>Welcome test conflict 2</p>
 
 <%@page import="demo.*"%>
 
